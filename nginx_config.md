@@ -6,7 +6,7 @@
 # update yum
 sudo yum update
 
-# install epel to get up to date nginx 
+# install epel to get up-to-date nginx 
 sudo yum install epel-release
 
 # install nginx
