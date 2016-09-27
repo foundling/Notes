@@ -17,3 +17,4 @@
 + Back in your Digital Ocean account, go to the Networking configuration panel and add a domain.
 + In the domain configuration, for 'www.mywebsite.com', put '@' as the name in the A record field. Put the IP address of your VPS in the address field.
 + If the nameservers aren't automatically filled out for you, use the list of digital ocean name servers you found previously.
++ Note that updating these settings can take up to 48 hours to propagate.  You can run `whois mywebiste.com` to get the current state of your site's configuration.
