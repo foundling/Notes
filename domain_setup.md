@@ -5,8 +5,9 @@
 
 ## Let's assume the following:
 
-+ You use Digital Ocean for your VPS
++ You use Digital Ocean for your VPS.
 + You've bought a domain name (mywebsite.com) through NameCheap.
++ You want to use digital ocean's nameservers and not those of your domain reseller. 
 + Your ip address is 132.180.381.110. (run 'ifconfig | grep addr' in a terminal on your VPS to find the ip address).
 
 ## Now do the following: 
