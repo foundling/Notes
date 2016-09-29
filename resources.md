@@ -1,5 +1,5 @@
-# Good Resources
+# Resources
 
 
-# Database 
-+ https://www.pgexercises.com
+# Databases 
++ PostgreSQL Exercises: https://www.pgexercises.com
