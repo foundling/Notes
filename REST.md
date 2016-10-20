@@ -8,9 +8,9 @@
 ## main characteristics:
 + **stateless**: session state is stored entirely on the client.
     ### Advantages of statelessness:
-        + **visibility**: the information about a request is entirely located in the request itself.
-        + **reliability**: recovering from partial failures is easier (look into this). 
-        + **scalability**: backend doesn't have to manage resources between requests. can free resources quickly.
+        +**visibility**: the information about a request is entirely located in the request itself.
+        +**reliability**: recovering from partial failures is easier (look into this). 
+        +**scalability**: backend doesn't have to manage resources between requests. can free resources quickly.
 
     ### Disadvantages:
         + **performance**: increases the request overhead.
